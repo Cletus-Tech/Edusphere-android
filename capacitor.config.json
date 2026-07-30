@@ -5,7 +5,7 @@
   "bundledWebRuntime": false,
 
   "server": {
-    "url": "https://REPLACE-WITH-YOUR-HOSTED-EDUSPHERE-URL.web.app",
+    "url": "https://edusphere12c.netlify.app/",
     "cleartext": false,
     "androidScheme": "https"
   },

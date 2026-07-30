@@ -5,7 +5,7 @@
   "bundledWebRuntime": false,
 
   "server": {
-    "url": "https://REPLACE-WITH-YOUR-HOSTED-EDUSPHERE-URL.web.app",
+    "url": "https://edusphere12c.netlify.app/",
     "cleartext": false,
     "androidScheme": "https"
   },
@@ -19,7 +19,7 @@
 
   "plugins": {
     "SplashScreen": {
-      "launchShowDuration": 1200,
+      "launchShowDuration": 6000,
       "launchAutoHide": true,
       "backgroundColor": "#0B0B0F",
       "androidSplashResourceName": "splash",

@@ -1,0 +1,30 @@
+{
+  "_COMMENT": "PLACEHOLDER FILE — REPLACE THIS ENTIRE FILE with the real google-services.json you download from Firebase Console > Project Settings > Your Apps > Android app (com.cletustech.edusphere). Do not edit fields by hand.",
+  "project_info": {
+    "project_number": "REPLACE-WITH-YOUR-FIREBASE-PROJECT-NUMBER",
+    "project_id": "REPLACE-WITH-YOUR-FIREBASE-PROJECT-ID",
+    "storage_bucket": "REPLACE-WITH-YOUR-FIREBASE-PROJECT-ID.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "REPLACE-WITH-YOUR-MOBILE-SDK-APP-ID",
+        "android_client_info": {
+          "package_name": "com.cletustech.edusphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "REPLACE-WITH-YOUR-API-KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+node_modules/
+android/
+.DS_Store
+Thumbs.db
+*.log
+release-key.jks
+keystore-base64.txt

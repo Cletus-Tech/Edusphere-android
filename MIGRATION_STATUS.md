@@ -34,7 +34,7 @@ tightly-coupled UI code (shared `C` theme object, `CURRENT_USER_ID` session
 state, cross-referenced hooks) where a one-shot blind split carries real risk
 of subtle breakage across a production app your students depend on daily.
 Doing it in reviewable, testable slices is safer — this is the same
-phased-with-clear-handoff approach used throughout FUTALearn's prior sessions.
+phased-with-clear-handoff approach used throughout EduSphere's prior sessions.
 
 ### Concrete next-slice plan (line numbers refer to `src/legacy/app-legacy.js`)
 This is the codebase's own existing section structure — extraction targets,
